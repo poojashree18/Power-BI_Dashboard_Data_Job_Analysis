@@ -27,3 +27,37 @@ Explore the dashboard below. Each has its own dedicated README with more details
 
 [➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
 
+
+## 📊 Data Jobs Dashboard v2
+
+![Data Jobs Dashboard v2](/images/Project2_dashboard_page1.png)
+
+**Key Power BI Skills Utilized:**
+
+* 🎨 Dashboard Design
+
+* ⚙️ Power Query ETL (Data Cleaning & Transformation)
+
+* 🔗 Data Modeling (Star Schema Relationships)
+
+* 🧮 DAX Calculations
+
+* 📊 Column, Bar, Line & Area Visualizations
+
+* 🗺️ Map Visuals
+
+* 🔢 KPI Cards
+
+* 📋 Tables
+
+* 🎨 Chart Variety for Data Storytelling
+
+* 🖱️ Interactive Features (Slicers, Buttons, Bookmarks, Drill-through)
+
+[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+
+---
+
+## About This Portfolio
+
+Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specfic Power BI techniques employed and a closer look at the dashboard build.
